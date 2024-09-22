@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bukitgachor.github.io/maxwin/sitemap.xml
